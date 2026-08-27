@@ -1,6 +1,6 @@
 # Project 01: Process Queue Shell
 
-This is [Project 01] of [CSE.30341.FA25].
+This is [Project 01] of [CSE.30341.FA26].
 
 ## Students
 
@@ -74,5 +74,5 @@ approach implementing [Project 01].
 students, and AI tools)
 
 
-[Project 01]: https://pnutz.h4x0r.space/courses/cse.30341.fa25/project01.html
-[CSE.30341.FA25]: https://pnutz.h4x0r.space/courses/cse.30341.fa25/
+[Project 01]: https://pnutz.h4x0r.space/courses/cse.30341.fa26/project01.html
+[CSE.30341.FA26]: https://pnutz.h4x0r.space/courses/cse.30341.fa26/

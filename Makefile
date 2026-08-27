@@ -3,7 +3,7 @@
 CC= 		gcc
 LD= 		gcc
 AR= 		ar
-CFLAGS= 	-Wall -g -std=gnu99 -Og -Iinclude -fPIC
+CFLAGS= 	-Wall -std=gnu99 -g -Og -Iinclude -fPIC
 LDFLAGS= 	-Llib
 ARFLAGS= 	rcs
 
@@ -73,7 +73,7 @@ clean:
 
 	@echo "Removing pqsh"
 	@rm -f $(PQSH_PROGRAM)
-	
+
 	@echo "Removing logs"
 	@rm -f tests/*.log tests/*.log.valgrind
 
