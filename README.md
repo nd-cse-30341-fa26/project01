@@ -7,10 +7,6 @@ This is [Project 01] of [CSE.30341.FA26].
 - Domer McDomerson (dmcdomer@nd.edu)
 - Belle Fleur (bfleur@nd.edu)
 
-## Video
-
-[Reflection Video](...)
-
 ## Brainstorming
 
 The following are questions that should help you in thinking about how to
